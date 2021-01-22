@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>RequestSigner.Aws.IoT.Mqtt</PackageId>
+    <Authors>Rohit</Authors>
+    <Product>RequestSigner.Aws.IoT.Mqtt</Product>
+    <Description>Create a signed url to connect to AWS IoT via MQTT over Websockets.</Description>
+  </PropertyGroup>
+
+</Project>
