@@ -6,6 +6,8 @@
     <Authors>Rohit</Authors>
     <Product>RequestSigner.Aws.IoT.Mqtt</Product>
     <Description>Create a signed url to connect to AWS IoT via MQTT over Websockets.</Description>
+    <RepositoryUrl>https://github.com/rohitvipin/AWS.RequestSigner</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
